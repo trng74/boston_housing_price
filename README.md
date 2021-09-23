@@ -1,1 +1,1 @@
-## Create Machine Leanring algorithms to predict Boston housing price
+## Create Machine Learning algorithms to predict Boston housing price
